@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sarvarbek 👋
 
 Welcome to my GitHub profile! I love contributing to open-source projects and working on exciting development projects.
 
